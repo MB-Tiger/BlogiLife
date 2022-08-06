@@ -28,7 +28,7 @@ const Home = ({ topBlogs }) => {
           <div className="container flex justify-between items-center pt-12">
             <div>
               <div className="sm:text-4xl text-2xl font-medium mb-4">
-                Join the BlogMo Challenge
+                Join the BlogiLife Challenge
               </div>
               <div className="text-[#949494] text-sm sm:text-base sm:font-medium">
                 Get dialy prompts. Write a post each day in january.
